@@ -1,5 +1,5 @@
 <h1> 2. Identify which class method is called, What is the output of the program?, Why are the two lines differenst? </h1>
-<img src="/Images/SoalNo2.png" alt="Putput nomor 2">
+<img src="/Nomor2/SoalNo2.png" alt="Putput nomor 2">
 
 <a> Class mothod yang dipanggil tergantung dari code mana yang di run, dalam kasus ini ada 2 object yang dipanggl, yang pertama adalah class vehicle dengan Constructor :
 

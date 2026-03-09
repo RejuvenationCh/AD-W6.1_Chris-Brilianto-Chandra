@@ -1,3 +1,4 @@
+package Nomor2;
 
 
 public class Vehicle {
