@@ -29,5 +29,5 @@ Dan satunya lagi adalah class Vehicle dengan constructor :
    v2.move();
 
 Dua duanya memanggil function move() tapi untk class Vehicle sendiri, dia menmanggil function Move dari public class Vehicle(). Sementara class car() memanggil function move() yang sudah dilakukan @Override sehngga dia akan mengambil block code yang berada dalam function move() yang baru itu. Class vehicle disini jadi parent utamanya dan car cuma menginherit data dari vehicle yang kemudian dia override function dari class vehicle dengan punyanya sendiri.
-
+Car mengoverride print "Vehicle" dengan "Car" 
 </a>
