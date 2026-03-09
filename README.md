@@ -21,9 +21,10 @@ Yang berarti dia memanggil khusus untuk child Cat dan bukan Parentnya, sehingga 
 <a> Class mothod yang dipanggil tergantung dari code mana yang di run, dalam kasus ini ada 2 object yang dipanggl, yang pertama adalah class vehicle dengan Constructor :
 
     Vehicle v1 = new Vehicle();
-    v1.move();
+    v1.move(); 
 
-Dan satunya lagi adalah class Vehicle dengan constructor :
+</a>
+<a> Dan satunya lagi adalah class Vehicle dengan constructor :
 
    Vehicle v2 = new Car();
    v2.move();
